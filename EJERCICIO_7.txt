@@ -1,0 +1,6 @@
+Numero Igresado: 7 Factorial: 5040
+Numero Igresado: 14 Factorial: 87178291200
+Numero Igresado: 54 Numero no valido 
+Numero Igresado: 14 Factorial: 87178291200
+Numero Igresado: 56 Factorial: 710998587804863451854045647463724949736497978881168458687447040000000000000
+Numero Igresado: 33 Numero no valido 

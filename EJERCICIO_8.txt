@@ -1,0 +1,7 @@
+Año del taxi: 2008 Kilometraje: 21000 El taxi necesita mantentenimiento
+Año del taxi: 2005 Kilometraje: 25000 El taxi debe renovarse
+Año del taxi: 2020 Kilometraje: 15000 mecanico
+Año del taxi: 2008 Kilometraje: 23000 El taxi necesita mantentenimiento
+Año del taxi: 2006 Kilometraje: 30000 El taxi debe renovarse
+Año del taxi: 2020 Kilometraje: 9000 Taxin en buenas condiciones
+Año del taxi: 2014 Kilometraje: 20000 mecanico

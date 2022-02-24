@@ -1,0 +1,5 @@
+Año: 1996 Resultado: Bisiesto
+Año: 2000 Resultado: Bisiesto
+Año: 2002 Resultado: No Bisiesto
+Año: 2000 Resultado: Bisiesto
+Año: 2002 Resultado: No Bisiesto

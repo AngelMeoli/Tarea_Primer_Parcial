@@ -1,0 +1,5 @@
+Nota1: 67 Nota2: 89 Nota3: 67 Resultado: Aprobado
+Nota1: 55 Nota2: 45 Nota3: 23 Resultado: Reprobado
+Nota1: 60 Nota2: 60 Nota3: 60 Resultado: Aprobado
+Nota1: 60 Nota2: 59 Nota3: 61 Resultado: Aprobado
+Nota1: 47 Nota2: 78 Nota3: 34 Resultado: Reprobado

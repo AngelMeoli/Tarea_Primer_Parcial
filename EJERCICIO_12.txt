@@ -1,0 +1,12 @@
+Circulo Radio:5 Area: 78.54
+Triangulo Base:5 Altura:7 Area: 17.5
+Cuadrado Arista:8 Area: 64
+Rectangulo Base:8 Altura:3 Area: 24
+Triangulo Base:15 Altura:4 Area: 30.0
+Circulo Radio:5 Area: 78.54
+Circulo Radio:5 Area: 78.54
+Circulo Radio:8 Area: 201.06
+Circulo Radio:5 Area: 78.54
+Triangulo Base:6 Altura:4 Area: 12.0
+Cuadrado Arista:6 Area: 36
+Rectangulo Base:6 Altura:7 Area: 42

@@ -1,0 +1,5 @@
+Minimo:0 Maximo:3 Numeros Impares:2
+Minimo:0 Maximo:3 Numeros Impares:2
+Minimo:0 Maximo:100 Numeros Impares:50
+Minimo:0 Maximo:156 Numeros Impares:78
+Minimo:0 Maximo:12 Numeros Impares:6
